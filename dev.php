@@ -10,7 +10,6 @@ class Zl
 
       $name ='study very happy';
 
-
    }
 
  public function is_blind_date()
