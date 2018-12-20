@@ -11,7 +11,7 @@ class Zl
 
 
       $hobby ='study';
-      $name ='张良';
+      $name ='张良2';
 
 
 
