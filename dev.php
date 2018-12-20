@@ -5,7 +5,7 @@ class Zl
     
   public function __construct()
    {    
-        
+        $name ='zl';
 
    }
 
