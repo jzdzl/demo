@@ -1,7 +1,8 @@
 <?php 
 
  public function is_blind_date()
-    {
+    {   
+        $zl ='zhangliang';
         $member_id = intval($this->user['user_id']);
         if(!$member_id)
         {
