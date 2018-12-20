@@ -1,7 +1,10 @@
 <?php 
 
  public function is_blind_date()
-    {
+    {    
+
+        $hh        ='cs';
+        $zl        ='hhh';
         $member_id = intval($this->user['user_id']);
         if(!$member_id)
         {
