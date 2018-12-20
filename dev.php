@@ -6,18 +6,8 @@ class Zl
   public function __construct()
    {    
        
-
-
-
-
-
       $zl   ='zhangliang';
       $name ='study';
-
-
-
-
-
 
    }
 
