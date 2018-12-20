@@ -7,7 +7,7 @@ class Zl
    {    
        
 
-      $name ='张良';
+      $name ='张良1';
 
    }
 
