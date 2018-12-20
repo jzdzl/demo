@@ -8,8 +8,8 @@ class Zl
        
 
 
-      $name ='张良1';
-
+      $name ='张良2';
+      $hobby='study';
 
    }
 
