@@ -6,7 +6,7 @@ class Zl
   public function __construct()
    {    
        
-
+      $name ='zl';
    }
 
  public function is_blind_date()
