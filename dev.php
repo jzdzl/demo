@@ -7,7 +7,7 @@ class Zl
    {    
        
       $zl   ='zhangliang';
-      $name ='studys';
+      $name ='study PHP';
 
    }
 
