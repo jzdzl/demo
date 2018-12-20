@@ -8,6 +8,7 @@ class Zl
        
       $zl   ='zhangliang';
 
+      $name ='study very happy';
 
    }
 
